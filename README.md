@@ -1,3 +1,10 @@
+## Important Note for Pull Requests:
+Before submitting a pull request (PR), ensure that your repository is synchronized with this one. When we merge your PR, all the content from this repository should be present in your fork along with your new code.
+
+Here's why this is crucial: If you fork this repository and later submit a PR, this repository might have received other contributions in the meantime. If you merge your forked repository at this stage, it can roll back the changes to an earlier version, causing the loss of all contributions made after you forked this repository.
+
+To avoid this, please make sure your forked repository is up to date with the latest changes from this repository before submitting your PR. Thank you for your understanding and cooperation!
+
 # Hacktoberfest @ Glug-Pace
 
 This is a glug-pace hacktoberfest activity repo, students contribute here to gain PR or MR.
