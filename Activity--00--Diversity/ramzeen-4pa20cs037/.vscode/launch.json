@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kramzeen/Hacktoberfest2023-pace/Activity--00--Diversity/ramzeen-4pa20cs037",
+      "program": "/Users/kramzeen/Hacktoberfest2023-pace/Activity--00--Diversity/ramzeen-4pa20cs037/build/Debug/outDebug"
+    }
+  ]
+}
