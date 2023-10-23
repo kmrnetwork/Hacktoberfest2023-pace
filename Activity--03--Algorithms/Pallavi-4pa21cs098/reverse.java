@@ -6,9 +6,9 @@ public class ReverseString {
 
         System.out.print("Enter a string: ");
         String input = scanner.nextLine();
-        String reversed = new StringBuilder(input).reverse().toString();
+        String reverse = new StringBuilder(input).reverse().toString();
 
-        System.out.println("Reversed: " + reversed);
+        System.out.println("Reverse String : " + reverse);
 
         scanner.close();
     }
