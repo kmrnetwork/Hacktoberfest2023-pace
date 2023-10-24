@@ -44,8 +44,16 @@ This is where you can make your contributions.
   $ git clone https://github.com/{your-username}/Hacktoberfest2023-pace
 ```
 
+### *Step 4: Create a new branch. To do this, run the following command*
+```bash
+git checkout -b <your_branch_name>
+```
 
-### *Step 4: Add and Commit Changes*
+Replace <branch_name> with the name of the branch that you want to create.
+
+### *Step 5: Make your changes. Open the files that you want to edit and make your changes*
+
+### *Step 6: Add and Commit Changes*
 ```bash
 # Make your contributions by adding new files or modifying existing ones.
 # Ensure your changes are meaningful and aligned with the repository's purpose.
@@ -59,7 +67,7 @@ This is where you can make your contributions.
 
 # Push your changes to your forked repository on GitHub:
 
- $  git push -u origin
+ $  git push origin <your_branch_name>
 
 
 ```
